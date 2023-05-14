@@ -12,10 +12,6 @@ a {
   margin: 40px;
   font-size: 1.5em;
 }
-a:hover {
-  background-color: white;
-  color: steelblue;
-}
 h1 {
   color: steelblue;
   text-align: center;
