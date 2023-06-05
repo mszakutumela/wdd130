@@ -38,18 +38,6 @@ nav a:hover {
 .join {
     background-color: #d0e562;
 }
-.book:hover {
+.:hover {
     background-color: #d0e562;
-} 
-.join:hover {
-    background-color: #d0e562;
-}
-#background {
-    background-color: #d0e562;
-} 
-.msg {
-    background-color: #d0e562;
-} 
-footer {
-    background-color: #d0e562;
-}
+}   
