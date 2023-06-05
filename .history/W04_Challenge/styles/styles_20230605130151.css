@@ -10,26 +10,22 @@ img {
 h1 {
     color: white;
     text-align: center; 
-    font-size: 45px;
-    font-family: Franklin Gothic Medium;
+    font-size: 40px;
+    font-family: ;
 }
-h2 {
+p1 {
     color: white;
-    text-align: center; 
-    font-size: 13px;  
+    text-align: right;   
 }
-h3 {
+p2 {
     color: white;
-    text-align: center;
-    font-size: 15px;
-    font-family: Franklin Gothic Medium;   
+    text-align: center;   
 }
-p {
+p3 {
     color: black;
-    margin: 150px;
     /* text-align: center;   */
 }
-h4 {
+h2 {
     color: white;
     text-align: center; 
     font-size: 30px;
@@ -38,4 +34,5 @@ footer p {
     font-size: 15px;
     margin: 20px auto;
     text-align: center; 
+}
 }

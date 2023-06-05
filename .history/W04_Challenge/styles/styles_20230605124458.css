@@ -1,0 +1,29 @@
+body {
+    /* text-align: center; */
+    background-color: rgb(235, 152, 222);
+    }
+img {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}   
+h1 {
+    color: white;
+    text-align: center; 
+}
+p1 {
+    color: white;
+    text-align: center;   
+}
+p2 {
+    color: white;
+    /* text-align: center;   */
+}
+p3 {
+    color: black;
+    /* text-align: center;   */
+}
+h2 {
+    color: white;
+    text-align: center; 
+}

@@ -10,7 +10,7 @@ img {
 h1 {
     color: white;
     text-align: center; 
-    font-size: 45px;
+    font-size: 40px;
     font-family: Franklin Gothic Medium;
 }
 h2 {
@@ -20,13 +20,10 @@ h2 {
 }
 h3 {
     color: white;
-    text-align: center;
-    font-size: 15px;
-    font-family: Franklin Gothic Medium;   
+    text-align: center;   
 }
 p {
     color: black;
-    margin: 150px;
     /* text-align: center;   */
 }
 h4 {
@@ -38,4 +35,5 @@ footer p {
     font-size: 15px;
     margin: 20px auto;
     text-align: center; 
+}
 }

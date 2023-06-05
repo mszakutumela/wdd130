@@ -3,39 +3,33 @@ body {
     background-color: rgb(235, 152, 222);
     }
 img {
-    width: 25%;
+    width: 30%;
     display: block;
     margin: 0 auto;
 }   
 h1 {
     color: white;
     text-align: center; 
-    font-size: 45px;
-    font-family: Franklin Gothic Medium;
+}
+p1 {
+    color: white;
+    text-align: center;   
+}
+p2 {
+    color: white;
+    text-align: center;   
+}
+p3 {
+    color: black;
+    /* text-align: center;   */
 }
 h2 {
     color: white;
     text-align: center; 
-    font-size: 13px;  
-}
-h3 {
-    color: white;
-    text-align: center;
-    font-size: 15px;
-    font-family: Franklin Gothic Medium;   
-}
-p {
-    color: black;
-    margin: 150px;
-    /* text-align: center;   */
-}
-h4 {
-    color: white;
-    text-align: center; 
-    font-size: 30px;
 }
 footer p {
-    font-size: 15px;
+    font-size: 10px;
     margin: 20px auto;
     text-align: center; 
+}
 }
