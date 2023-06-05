@@ -2,29 +2,29 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
 
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #ffa630   ;
-  --secondary-color: #E ;
-  --accent1-color: #A42212;
+  --secondary-color: #d0e562 ;
+  --accent1-color: #bbd671;
   --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "IM Fell French Canon";
-  --paragraph-font: Lato, Helvetica, sans-serif;
+  --heading-font: "Quicksand:wght@500";
+  --paragraph-font: Quicksand:wght@300, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #396E94;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
+  --headline-color-on-color: #ffa630; /* headlines on a colored background */ 
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #396E94  ;
+  --paragraph-color-on-color: #ffa630; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #d0e562  ;
   --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-background-color: #ffa630;
+  --nav-hover-link-color: #ffa630;
+  --nav-hover-background-color: #d0e562;
 }
 
 
@@ -43,7 +43,7 @@ img {
   max-width: 300px;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--heading-font);
+  font-family: Arial, Helvetica, sans-serif;
   color: var(--headline-color-on-white);
 }
 h2 {
