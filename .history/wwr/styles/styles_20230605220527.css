@@ -20,10 +20,6 @@ nav a {
 main section {
     text-align: center;
     }
-#background {
-    height: 725px;
-}       
-body {
-    background-color: #d0e562;
-}
-    
+    #background {
+        height: 725px;
+    }       

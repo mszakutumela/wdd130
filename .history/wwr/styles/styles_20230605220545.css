@@ -21,9 +21,5 @@ main section {
     text-align: center;
     }
 #background {
-    height: 725px;
-}       
-body {
-    background-color: #d0e562;
-}
-    
+        height: 725px;
+    }       

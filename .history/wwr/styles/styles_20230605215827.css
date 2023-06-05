@@ -1,5 +1,6 @@
 div {
     max-width: 1600px;
+    
 }
 #content {margin: 0 auto;
 }
@@ -16,14 +17,5 @@ nav a {
 }
 .button-box {
     text-align: center;
-}
-main section {
-    text-align: center;
-    }
-#background {
-    height: 725px;
-}       
-body {
-    background-color: #d0e562;
 }
     
