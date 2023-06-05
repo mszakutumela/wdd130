@@ -1,0 +1,17 @@
+header img {
+    border: 20px;
+    width: 90%;
+}
+h1 {
+    text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 35px;
+}
+#W05 {
+    background-color: grey;
+    width: 80%;
+    text-align: center;
+    margin: -60px auto;
+    padding: 50px 0px;
+}
+#W05 img 
