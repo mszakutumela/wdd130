@@ -1,10 +1,11 @@
 body {
   text-align: center;
   }
-nav, footer {
+nav,  {
   background-color: steelblue;
   color: white;
   padding: 10px;
+  text-align: center;
 }  
 a {
   color: white;
@@ -34,11 +35,15 @@ p {
   width: 80%;
   padding: 10px;
 }
-footer p {
+footer {
+  background-color: steelblue;
+  color: white;
+  padding: 10px;
+  text-align: center;
   font-size: 20px;
   margin: 20px auto;
 }
-a:hover {
-  background-color: white;
-  color: steelblue;
+footer p {
+  font-size: 20px;
+  margin: 20px auto;
 }
