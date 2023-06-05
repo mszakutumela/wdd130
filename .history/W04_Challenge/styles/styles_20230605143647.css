@@ -31,6 +31,7 @@ p {
     margin: 0 auto;
     /* text-align: 15em; */
     font-family: Franklin Gothic Medium;
+    display: inline-block;
 
     /* text-align: center;   */
 }

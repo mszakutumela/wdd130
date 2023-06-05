@@ -27,10 +27,9 @@ h3 {
 }
 p {
     color: black;
-    font-size: 13px;
-    margin: 0 auto;
-    /* text-align: 15em; */
-    font-family: Franklin Gothic Medium;
+    font-size: 15px;
+    /* margin: 15em; */
+    font-family: Franklin Gothic Medium; 
 
     /* text-align: center;   */
 }

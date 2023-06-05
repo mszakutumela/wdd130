@@ -28,9 +28,10 @@ h3 {
 p {
     color: black;
     font-size: 13px;
-    margin: 0 auto;
+    margin: 15em;
     /* text-align: 15em; */
     font-family: Franklin Gothic Medium;
+    display: inlineblock;
 
     /* text-align: center;   */
 }
