@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: steelblue;
+    }
+img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}    
