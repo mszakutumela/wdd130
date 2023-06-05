@@ -25,7 +25,7 @@ h3 {
     font-size: 15px;
     font-family: Franklin Gothic Medium;   
 }
-p {
+h4 {
     color: black;
     font-size: 15px;
     margin: 15em;
@@ -33,7 +33,7 @@ p {
 
     /* text-align: center;   */
 }
-h4 {
+h5 {
     color: white;
     text-align: center; 
     font-size: 30px;

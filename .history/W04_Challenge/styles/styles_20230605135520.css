@@ -16,8 +16,8 @@ h1 {
 h2 {
     color: white;
     text-align: center; 
-    font-size: 12px;
-    margin: 0 auto;  
+    font-size: 13px;
+    margin: 0 auto; font-family: Arial; 
 }
 h3 {
     color: white;

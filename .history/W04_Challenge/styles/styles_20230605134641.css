@@ -12,11 +12,12 @@ h1 {
     text-align: center; 
     font-size: 45px;
     font-family: Franklin Gothic Medium;
+    margin: 0 auto;
 }
 h2 {
     color: white;
     text-align: center; 
-    font-size: 12px;
+    font-size: 13px;
     margin: 0 auto;  
 }
 h3 {
@@ -27,9 +28,7 @@ h3 {
 }
 p {
     color: black;
-    font-size: 15px;
     margin: 15em;
-    font-family: Franklin Gothic Medium; 
 
     /* text-align: center;   */
 }
@@ -39,8 +38,7 @@ h4 {
     font-size: 30px;
 }
 footer p {
-    font-size: 12px;
+    font-size: 15px;
     margin: 20px auto;
     text-align: center; 
-    font-family: Arial; 
 }

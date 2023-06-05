@@ -16,7 +16,7 @@ h1 {
 h2 {
     color: white;
     text-align: center; 
-    font-size: 12px;
+    font-size: 13px;
     margin: 0 auto;  
 }
 h3 {
@@ -42,5 +42,5 @@ footer p {
     font-size: 12px;
     margin: 20px auto;
     text-align: center; 
-    font-family: Arial; 
+    font-family: Franklin Gothic Medium; 
 }
