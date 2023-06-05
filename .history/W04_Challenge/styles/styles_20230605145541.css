@@ -31,13 +31,12 @@ h3 {
 }
 p {
     color: black;
-    display: block;
-    width: 300px;
+    width: 800px;
     font-size: 13px;
     margin: 0 auto;
     text-align: 15px;
     font-family: Franklin Gothic Medium;
-    
+    display: block;
 }
 h4 {
     color: white;
