@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  margin: 0;
+  margin: ;
   }
 nav, footer {
   background-color: steelblue;
@@ -26,7 +26,7 @@ img {
   width: 80%;
   display: block;
   margin: 0 auto;
-  border: 4px solid steelblue;
+  /* border: 2px solid steelblue; */
 }
 main p {
   width: 80%;
