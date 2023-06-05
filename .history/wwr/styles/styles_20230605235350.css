@@ -96,7 +96,10 @@ footer p:hover {
     color: yellow;
     text-decoration: underline;
 } 
-
+footer p a:hover {
+    text-decoration: underline;
+}            
+    
     
     
     

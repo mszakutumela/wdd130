@@ -85,18 +85,20 @@ footer a {
 }
 footer a:hover {
     color: yellow;
-    text-decoration: underline;
 }
 footer p {
     color: black;
     font-size: 1.2em;
     text-decoration: none;
 } 
-footer p:hover {
-    color: yellow;
+footer p a:hover {
     text-decoration: underline;
-} 
+}         
 
+footer h3 a {
+    text-decoration: underline;
+}
+    
     
     
     

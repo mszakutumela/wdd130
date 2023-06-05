@@ -85,7 +85,6 @@ footer a {
 }
 footer a:hover {
     color: yellow;
-    text-decoration: underline;
 }
 footer p {
     color: black;
@@ -94,9 +93,11 @@ footer p {
 } 
 footer p:hover {
     color: yellow;
-    text-decoration: underline;
 } 
-
+footer p a:hover {
+    text-decoration: underline;
+}            
+    
     
     
     
