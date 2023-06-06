@@ -189,9 +189,9 @@
   background-color: blue;
   grid-column: 2/6;
   grid-row: 2/6;
-  z-index: -1;
   /* margin: 100px;  */
 } 
+
 
 /* Do not make any changes below here */
 .activity {
