@@ -99,31 +99,27 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   justify-items: center;
-  grid-column-gap: 0;
 }
 .red4 {
-  width: 430px; 
+  width: 200px; 
   height: 500px; 
   background-color: red; 
   grid-row: 1/4;
 } 
 .green4 {
-  width: 400px; 
-  height: 160px; 
-  background-color: green;
-  margin-top: 0; 
+  width: 200px; 
+  height: 100px; 
+  background-color: green; 
 } 
 .yellow4 {
-  width: 400px; 
-  height: 170px; 
+  width: 100px; 
+  height: 100px; 
   background-color: gold; 
-  margin-top: 0;
 } 
 .blue4 {
-  width: 400px; 
-  height: 170px; 
+  width: 100px; 
+  height: 100px; 
   background-color: blue; 
-  margin-top: 0;
 } 
 /* Activity 5 styles */ 
 .content5 {
