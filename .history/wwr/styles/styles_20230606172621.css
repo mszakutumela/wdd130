@@ -202,9 +202,7 @@ main section img {
     box-sizing: border-box;
 }
 
-
-/* Don't add anything else below the Media Query */
-
+Don't add anything else below the Media Query
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
