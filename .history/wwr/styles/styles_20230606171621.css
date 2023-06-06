@@ -186,9 +186,8 @@ footer .social img {
     transition: transform .5s;
     box-shadow: 5px 5px 5px #6f7364;
 }
-.card-img hover {
-    opacity: .6;
-    transform: scale(1.1);
+.card-img: hover {
+    opacity
 }
 .mountains {
     border: 10px solid black;
