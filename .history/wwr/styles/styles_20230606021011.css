@@ -48,14 +48,12 @@ nav a:hover {
     color: green;
     text-decoration: none;
     font-size: 18px;
-    padding: 15px;
 }        
 .join {
     background-color: #f7da8b;
     color: green;
     text-decoration: none;
     font-size: 18px;
-    padding: 30px;
 }
 .book:hover {
     background-color: white;
@@ -68,18 +66,15 @@ nav a:hover {
 .msg {
     background-color: #ffa630;
     line-height: 1.5em;
-    padding: 35px;
 } 
 footer {
     background-color: #ffa630;
-    padding: 25px 50px;
 }
 .logo {
     width: 80px;
 }
 .icon {
     width: 80px;
-    padding: 10px;
 }
 #hero-img {
     width: 100%;
@@ -96,7 +91,6 @@ h4 {
 .msg p {
     color: black;
     font-size: 2em;
-    padding: 15px;
 }
 footer a {
     color: black;
@@ -117,9 +111,6 @@ footer p:hover {
 } 
 #logo_link {
     padding-top: 5px;
-}
-footer .social img {
-    padding: 15px;
 }
 
     

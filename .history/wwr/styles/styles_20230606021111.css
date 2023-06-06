@@ -68,11 +68,10 @@ nav a:hover {
 .msg {
     background-color: #ffa630;
     line-height: 1.5em;
-    padding: 35px;
+    padding
 } 
 footer {
     background-color: #ffa630;
-    padding: 25px 50px;
 }
 .logo {
     width: 80px;
@@ -96,7 +95,6 @@ h4 {
 .msg p {
     color: black;
     font-size: 2em;
-    padding: 15px;
 }
 footer a {
     color: black;
@@ -117,9 +115,6 @@ footer p:hover {
 } 
 #logo_link {
     padding-top: 5px;
-}
-footer .social img {
-    padding: 15px;
 }
 
     
