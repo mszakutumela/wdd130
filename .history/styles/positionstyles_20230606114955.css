@@ -40,27 +40,34 @@
   width: 200px; 
   height: 200px; 
   background-color: red; 
+  /* grid-column: 1/3 ;
+  grid-row: 1/3;
+  margin: 50px; */
 } 
 .green2 { 
   width: 200px; 
   height: 200px; 
   background-color: green;
-  margin-left: 100px; 
-  margin-top: -100px;
+  grid-column: 1/3;
+  grid-row: 1/3;
+  margin-left: 10px; 
+  margin-top: ;
 } 
 .yellow2 {
   width: 200px; 
   height: 200px; 
   background-color: gold;
-  margin-left: 170px;
-  margin-top: -100px;
+  grid-column: 1/3 ;
+  grid-row: 1/3;
+  margin: 0; 
 } 
 .blue2 {
   width: 200px; 
   height: 200px; 
   background-color: blue; 
-  margin-left: 250px;
-  margin-top: -100px;
+  grid-column: 1/3 ;
+  grid-row: 1/3;
+  margin: 0;
 } 
 /* Activity 3 styles */ 
 .content3 {
