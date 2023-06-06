@@ -160,36 +160,27 @@
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
-  display: grid;
-  grid-template-columns: 1fr;
+  dis
 }
 .red6 {
-  width: 400px; 
-  height: 200px; 
+  width: 100px; 
+  height: 100px; 
   background-color: red; 
-  grid-column: 1/4;
-  grid-row: 1/4;
 } 
 .green6 {
-  width: 200px; 
-  height: 200px; 
+  width: 100px; 
+  height: 100px; 
   background-color: green; 
-  margin: -200px 0 0 0;
 } 
 .yellow6 {
-  width: 200px; 
-  height: 500px; 
+  width: 100px; 
+  height: 100px; 
   background-color: gold; 
-  margin: -200px;
-  margin-top: -500px;
 } 
 .blue6 {
-  width: 400px; 
-  height: 500px; 
-  background-color: blue;
-  grid-column: 1/4;
-  grid-row: 1/4;
-  margin: 100px; 
+  width: 100px; 
+  height: 100px; 
+  background-color: blue; 
 } 
 
 

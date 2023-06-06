@@ -174,14 +174,13 @@
   width: 200px; 
   height: 200px; 
   background-color: green; 
-  margin: -200px 0 0 0;
+  margin: 400px 0 0 0;
 } 
 .yellow6 {
   width: 200px; 
-  height: 500px; 
+  height: 400px; 
   background-color: gold; 
-  margin: -200px;
-  margin-top: -500px;
+  margin: -100px;
 } 
 .blue6 {
   width: 400px; 
@@ -189,7 +188,7 @@
   background-color: blue;
   grid-column: 1/4;
   grid-row: 1/4;
-  margin: 100px; 
+  margin: -100px; 
 } 
 
 
