@@ -148,10 +148,11 @@
 } 
 .yellow5 {
   width: 500px; 
-  height: 300px; 
+  height: 400px; 
   background-color: gold;
-  margin-top: -50px; 
+  margin-top: -100px; 
 } 
+
 .blue5 {
   width: 500px; 
   height: 100px; 
