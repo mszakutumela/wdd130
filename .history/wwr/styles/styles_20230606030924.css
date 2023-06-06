@@ -27,7 +27,6 @@ main section {
 #background {
     height: 725px;
     background-color: #f7da8b;
-    margin: 100px 5px;
 }       
 body {
     background-color: #d0e562;
@@ -77,12 +76,11 @@ nav a:hover {
     background-color: #ffa630;
     line-height: 2.5em;
     padding: 35px;
-    margin: 150px 5px;
 } 
 footer {
     background-color: #ffa630;
     padding: 25px 50px;
-    margin: 200px 5px;
+    margin: 200px 20px;
 }
 .logo {
     width: 80px;

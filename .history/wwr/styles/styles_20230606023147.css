@@ -1,9 +1,8 @@
-/* div {
+div {
     max-width: 1600px;
-} */
-/* #content {
-    margin: 0 auto;
-} */
+}
+#content {margin: 0 auto;
+}
 nav a {
     text-align: center;
     color: black;
@@ -27,7 +26,6 @@ main section {
 #background {
     height: 725px;
     background-color: #f7da8b;
-    margin: 100px 5px;
 }       
 body {
     background-color: #d0e562;
@@ -41,8 +39,7 @@ h2 {
 }
 header {
     background-color: #ffa630;
-    width: 100%;
-}
+    }
 nav a:hover {
     background-color: rgb(76, 132, 216);
     color: yellow;
@@ -75,14 +72,13 @@ nav a:hover {
 }
 .msg {
     background-color: #ffa630;
-    line-height: 2.5em;
+    line-height: 1.5em;
     padding: 35px;
-    margin: 150px 5px;
 } 
 footer {
     background-color: #ffa630;
     padding: 25px 50px;
-    margin: 200px 5px;
+    margin: 200px;
 }
 .logo {
     width: 80px;
@@ -97,7 +93,7 @@ footer {
 .home-title {
     color: #013788;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 75px;
+    font-size: 2em;
     margin-top: 10px;
 }
 h4 {
@@ -138,10 +134,7 @@ footer .social img {
     margin: 200px 0;
 }
 .card-img{
-    border: 10px solid black;;
-}
-main section img {
-    box-sizing: border-box;
+    border: 10px solid #d9c;
 }
 
     
