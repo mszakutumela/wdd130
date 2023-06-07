@@ -44,9 +44,9 @@ body {
     margin: 0;
     padding: 0;
 }
-/* h2 {
+h2 {
     margin: 0;
-} */
+}
 header {
     background-color: #ffa630;
     width: 100%;
@@ -139,16 +139,16 @@ footer {
     font-size: 75px;
     margin-top: 10px;
 }
-/* h4 {
+h4 {
     color: #013788;
-} */
+}
 .msg h2 {
     color: black;
 }
 .msg p {
     color: black;
-    /* font-size: 2em; */
-    padding: 15px;
+    font-size: 2em;
+    /* padding: 15px; */
     padding-bottom: 15px;
 }
 footer a {
