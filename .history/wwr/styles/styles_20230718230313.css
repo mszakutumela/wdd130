@@ -247,7 +247,7 @@ main section img {
 }
 #rafting-msg h4 {
     text-align: center;
-    color:  yellow;
+    color:  green;
 }
 .knob-box {
     text-align: center;
@@ -260,10 +260,11 @@ main section img {
     box-shadow: 5px 5px 10px #6f7364;
 }
 .faq-title {
-    color:  #000325;
+    color:  #020645;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
     margin-top: 10px;
+    fon
 }
 
 /* Don't add anything else below the Media Query */
