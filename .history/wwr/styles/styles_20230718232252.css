@@ -265,12 +265,6 @@ main section img {
     font-size: 70px;
     margin-top: 10px;
 }
-.faq-grid {
-    display: grid;
-    /* grid-template-columns: repeat(10, 100px); */
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    padding: 1em 2em;
-}
 
 /* Don't add anything else below the Media Query */
 
