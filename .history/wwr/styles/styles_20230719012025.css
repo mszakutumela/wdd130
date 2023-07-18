@@ -325,11 +325,6 @@ main section img {
     margin: 200px 0;
     grid-column: 8/10;
     grid-row: 2/2;
-    text-align: justify;
-    background-color: #ffa630;
-    padding: 35px;
-    margin: 150px 5px;
-    box-shadow: 5px 5px 5px #6f7364;
 }
 
 /* Don't add anything else below the Media Query */
