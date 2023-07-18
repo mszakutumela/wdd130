@@ -249,16 +249,12 @@ main section img {
     text-align: center;
     color: rgb(137, 203, 253);
 }
-.knob-box {
+.button-box {
     text-align: center;
 }
-.canyon {
-    border: 10px solid black;
-    width: 100%;
-    grid-column: 2/7;
-    grid-row: 5/8;
-    box-shadow: 5px 5px 10px #6f7364;
-}
+main section {
+    text-align: center;
+    }
 
 /* Don't add anything else below the Media Query */
 
