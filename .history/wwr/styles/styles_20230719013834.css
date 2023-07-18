@@ -275,7 +275,7 @@ main section img {
     margin: 200px 0;
     grid-column: 2/4;
     grid-row: 1/1;
-    text-align: left;
+    text-align: lef;
     background-color: #ffa630;
     padding: 35px;
     margin: 150px 5px;
