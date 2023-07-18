@@ -304,7 +304,7 @@ main section img {
 .question-6 {
     margin: 200px 0;
     grid-column: 8/10;
-    grid-row: 3/3;
+    grid-row: 4/5;
 }
 .card-img {
     border: 10px solid black;
