@@ -37,8 +37,8 @@ main section {
     /* margin: 100px 5px; */
     margin: 0;
     padding: 35px;
-    grid-column: 0/11;
-    grid-row: 6/12;
+    grid-column: 1/11;
+    grid-row: 4/9;
     /* grid-template-columns: 150px auto; */
 }       
 body {
@@ -256,7 +256,7 @@ main section img {
     border: 10px solid black;
     width: 100%;
     grid-column: 0/8;
-    grid-row: 7/12;
+    grid-row: 7/10;
     box-shadow: 5px 5px 10px #6f7364;
 }
 .faq-title {

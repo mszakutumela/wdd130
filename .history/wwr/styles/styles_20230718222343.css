@@ -38,7 +38,7 @@ main section {
     margin: 0;
     padding: 35px;
     grid-column: 0/11;
-    grid-row: 6/12;
+    grid-row: 4/9;
     /* grid-template-columns: 150px auto; */
 }       
 body {
