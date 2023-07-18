@@ -331,11 +331,11 @@ main section img {
     margin: 150px 5px;
     box-shadow: 5px 5px 5px #6f7364;
 }
-.question-1 p {
+. p {
     color: black;
-    font-size: 2em;
-    padding: 13px;
-    padding-bottom: 13px;
+    /* font-size: 2em; */
+    padding: 15px;
+    padding-bottom: 15px;
 }
 /* Don't add anything else below the Media Query */
 
