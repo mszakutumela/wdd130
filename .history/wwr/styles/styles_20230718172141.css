@@ -238,7 +238,7 @@ main section img {
     grid-column: 1/4;
     grid-row: 1/3;
     z-index: -1;
-}
+
 
 
 /* Don't add anything else below the Media Query */
