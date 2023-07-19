@@ -41,7 +41,7 @@ div.content {
 #secondaryFull{
 	height:50px;
 	background-color:#CFB59F;
-	border-top:#349ee0 2px solid;
+	border-top:#FFFFFF 2px solid;
 	margin:0;
 	padding:0;
 	}
@@ -49,7 +49,7 @@ div.content {
 #footer{
 	height:50px;
 	background:#BFBD93;
-	border-top:#349ee0 2px solid;
+	border-top:#FFFFFF 2px solid;
 	margin:0;
 	padding:0;
 	}
