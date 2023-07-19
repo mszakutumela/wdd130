@@ -445,7 +445,7 @@ form {
     font-size: 70px;
     margin-top: 10px;
 }
-#contact_us-msg {    
+#-msg {    
     text-align: center;
     grid-column: 2/3;
     grid-row: 1/2;

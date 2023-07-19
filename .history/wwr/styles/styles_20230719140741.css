@@ -445,12 +445,7 @@ form {
     font-size: 70px;
     margin-top: 10px;
 }
-#contact_us-msg {    
-    text-align: center;
-    grid-column: 2/3;
-    grid-row: 1/2;
-    margin-top: 100px;
-}
+
 
 /* Don't add anything else below the Media Query */
 
