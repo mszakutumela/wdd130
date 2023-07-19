@@ -439,8 +439,8 @@ form {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     padding: 1em 2em;
 }
-.contact_us-title {
-    color:  rgb(76, 132, 216);
+.faq-title {
+    color:  #040a4f;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
     margin-top: 10px;
