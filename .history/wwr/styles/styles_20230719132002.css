@@ -372,9 +372,9 @@ form {
     padding: 1em;
     border: 1px solid #ccc;
     border-radius: 1em;
-    grid-column: 5/7;
+    grid-column: 8/10;
     grid-row: 2/2;
-    background-color: #ffa630;
+    
   }
   
   ul {

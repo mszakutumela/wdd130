@@ -372,9 +372,6 @@ form {
     padding: 1em;
     border: 1px solid #ccc;
     border-radius: 1em;
-    grid-column: 5/7;
-    grid-row: 2/2;
-    background-color: #ffa630;
   }
   
   ul {
@@ -422,7 +419,7 @@ form {
     height: 5em;
   }
   
-  .form-button {
+  .formbutton {
     /* Align buttons with the text fields */
     padding-left: 90px; /* same size as the label elements */
   }
@@ -432,6 +429,9 @@ form {
        between the labels and their text fields */
     margin-left: 0.5em;
   }
+  
+
+
 
 /* Don't add anything else below the Media Query */
 
