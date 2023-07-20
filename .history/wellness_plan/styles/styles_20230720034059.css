@@ -3,13 +3,6 @@ div.content {
     max-width: 1600px;
     margin: 0 auto;
 }
-body {
-    background-color: #b4f7f1;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 22px;
-    margin: 0;
-    padding: 0;
-}
 header {
     background-color: #327570;
     width: 100%;
@@ -18,62 +11,10 @@ header {
     /* grid-template-columns: 1fr 3fr 1fr; */
 }
 .logo {
-    width: 90px;
+    width: 80px;
+}
+
 } 
-#tabs {
-	float:left;
-	width:100%;
-	background:#EDF7E7;
-	font-size:93%;
-	line-height:normal;
-	}
-
-#tabs ul {
-	margin:0;
-	padding:10px 10px 0 50px;
-	list-style:none;
-	}
-
-#tabs li {
-	display:inline;
-	margin:0;
-	padding:0;
-	}
-
-#tabs a {
-	float:left;
-	background:url("images/tableft.gif") no-repeat left top;
-	margin:0;
-	padding:0 0 0 4px;
-	text-decoration:none;
-	}
-
-#tabs a span {
-	float:left;
-	display:block;
-	background:url("images/tabright.gif") no-repeat right top;
-	padding:5px 15px 4px 6px;
-	color:#464E42;
-	}
-
-/* Commented Backslash Hack hides rule from IE5-Mac \*/
-#tabs a span {float:none;}
-
-/* End IE5-Mac hack */
-#tabs a:hover span {
-	color:#FFF;
-	}
-
-#tabs a:hover {
-	background-position:0% -42px;
-	}
-
-#tabs a:hover span {
-	background-position:100% -42px;
-	}  
-
-
-
 footer {
     background-color: #327570;
     padding: 25px 50px;
@@ -83,20 +24,20 @@ footer {
     align-items: center;
 }
 footer a {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 footer a:hover {
-    color: #69f5ea;
+    color: yellow;
     text-decoration: underline;
 }
 footer p {
-    color: white;
+    color: black;
     font-size: 1.2em;
     text-decoration: none;
 } 
 footer p:hover {
-    color: #69f5ea;
+    color: yellow;
     text-decoration: underline;
 } 
 #logo_link {

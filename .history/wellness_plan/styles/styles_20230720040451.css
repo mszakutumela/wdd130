@@ -42,7 +42,7 @@ header {
 
 #tabs a {
 	float:left;
-	background:url("images/tableft.gif") no-repeat left top;
+	background:url("tableft.gif") no-repeat left top;
 	margin:0;
 	padding:0 0 0 4px;
 	text-decoration:none;
@@ -51,7 +51,7 @@ header {
 #tabs a span {
 	float:left;
 	display:block;
-	background:url("images/tabright.gif") no-repeat right top;
+	background:url("tabright.gif") no-repeat right top;
 	padding:5px 15px 4px 6px;
 	color:#464E42;
 	}
@@ -73,7 +73,7 @@ header {
 	}  
 
 
-
+	
 footer {
     background-color: #327570;
     padding: 25px 50px;
