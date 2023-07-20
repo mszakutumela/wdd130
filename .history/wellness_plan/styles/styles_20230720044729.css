@@ -8,10 +8,10 @@ div.content {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     margin: 0;
-    padding: 0;
-} */
+    padding: 0; */
+}
 header {
-    background-color: #b4f7f1;
+    background-color: #327570;
     width: 100%;
     display: grid;
     grid-template-columns: 150px auto;
