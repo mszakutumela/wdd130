@@ -3,13 +3,13 @@ div.content {
     max-width: 1600px;
     margin: 0 auto;
 }
-body {
-    background-color: #327570;
+/* body {
+    background-color: #b4f7f1;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
-}
+} */
 header {
     background-color: #b4f7f1;
     width: 100%;
@@ -79,12 +79,17 @@ header {
 #tabs a:hover span {
 	background-position:100% -42px;
 	}  
-
-
+	#footer{
+		height:50px;
+		background:#BFBD93;
+		border-top:#FFFFFF 2px solid;
+		margin:0;
+		padding:0;
+		}
 
 
 footer {
-    background-color: #b4f7f1;
+    background-color: #327570;
     padding: 25px 50px;
     margin-top: 25px;
     display: flex;

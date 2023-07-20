@@ -4,7 +4,7 @@ div.content {
     margin: 0 auto;
 }
 body {
-    background-color: #327570;
+    background-color: #b4f7f1;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -84,7 +84,7 @@ header {
 
 
 footer {
-    background-color: #b4f7f1;
+    background-color: #327570;
     padding: 25px 50px;
     margin-top: 25px;
     display: flex;

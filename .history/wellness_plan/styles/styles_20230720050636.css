@@ -3,13 +3,13 @@ div.content {
     max-width: 1600px;
     margin: 0 auto;
 }
-body {
-    background-color: #327570;
+/* body {
+    background-color: #b4f7f1;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
-}
+} */
 header {
     background-color: #b4f7f1;
     width: 100%;
@@ -18,6 +18,12 @@ header {
     grid-template-columns: 150px auto;
     /* grid-template-columns: 1fr 3fr 1fr; */
 }
+#header{
+	height:100px;
+	background-color:#F3F2ED;
+	margin:0;
+	padding:0;
+	}
 .home-grid {
     display: grid;
     /* grid-template-columns: repeat(10, 100px); */
@@ -82,11 +88,10 @@ header {
 
 
 
-
 footer {
-    background-color: #b4f7f1;
+    background-color: #327570;
     padding: 25px 50px;
-    margin-top: 25px;
+    margin-top: 200px;
     display: flex;
     justify-content: space-around;
     align-items: center;
