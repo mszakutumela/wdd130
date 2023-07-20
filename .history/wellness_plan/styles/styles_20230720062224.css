@@ -36,7 +36,7 @@ body {
 	background:white;
 	font-size:93%;
 	line-height:normal;
-}
+	}
 
 #tabs ul {
 	margin:0;
@@ -79,6 +79,8 @@ body {
 #tabs a:hover span {
 	background-position:100% -42px;
 }
+	
+	
 
 footer {
     background-color: #b4f7f1;

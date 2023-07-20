@@ -36,19 +36,19 @@ body {
 	background:white;
 	font-size:93%;
 	line-height:normal;
-}
+	}
 
 #tabs ul {
 	margin:0;
 	padding:10px 10px 0 50px;
 	list-style:none;
-}
+	}
 
 #tabs li {
 	display:inline;
 	margin:0;
 	padding:0;
-}
+	}
 
 #tabs a {
 	float:left;
@@ -79,6 +79,8 @@ body {
 #tabs a:hover span {
 	background-position:100% -42px;
 }
+	
+	
 
 footer {
     background-color: #b4f7f1;

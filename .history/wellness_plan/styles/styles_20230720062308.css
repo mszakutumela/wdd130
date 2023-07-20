@@ -79,6 +79,16 @@ body {
 #tabs a:hover span {
 	background-position:100% -42px;
 }
+.question-1 {
+    margin: 200px 0;
+    grid-column: 2/4;
+    grid-row: 1/1;
+    text-align: left;
+    background-color: #ffa630;
+    padding: 35px;
+    margin: 150px 5px;
+    box-shadow: 5px 5px 5px #6f7364;	
+}	
 
 footer {
     background-color: #b4f7f1;
