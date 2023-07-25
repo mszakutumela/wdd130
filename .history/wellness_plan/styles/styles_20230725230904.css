@@ -176,8 +176,8 @@ footer p {
     grid-gap: 30px;
 }
 .smart-card-img {
-    /* border: 6px solid #b4f7f1; */
-    width: 75%;
+    border: 6px solid #b4f7f1;
+    width: 10%;
     transition: transform .5s;
 }
 .smart-card-img:hover {

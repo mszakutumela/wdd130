@@ -176,9 +176,10 @@ footer p {
     grid-gap: 30px;
 }
 .smart-card-img {
-    /* border: 6px solid #b4f7f1; */
+    border: 6px solid #b4f7f1;
     width: 75%;
     transition: transform .5s;
+    image-align: center;
 }
 .smart-card-img:hover {
     opacity: .6s;
