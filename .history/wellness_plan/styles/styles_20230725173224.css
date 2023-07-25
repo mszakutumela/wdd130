@@ -1,0 +1,9 @@
+body {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    column-gap: 20px;
+}
+.logo {
+    grid-column: 6/6;
+
+}    

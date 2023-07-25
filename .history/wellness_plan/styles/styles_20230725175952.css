@@ -1,0 +1,11 @@
+/* Wellness Plan Styles Home Page */
+
+header {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+header .logo {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    width: 150px;
+}

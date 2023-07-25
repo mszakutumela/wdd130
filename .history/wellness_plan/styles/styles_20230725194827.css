@@ -1,0 +1,66 @@
+/* Wellness Plan Styles Home Page */
+
+header {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.logo {
+    width: 150px;
+}
+.logo_position {
+    grid-column: 4/4;
+}
+#tabs {
+    grid-column: 1/4;
+	width:130%;
+	height:150px;
+	background:rgb(181, 74, 74);
+	font-size:93%;
+    margin: auto 0;
+    /* z-index: -1; */
+	}
+
+#tabs ul {
+	margin:0;
+	padding:10px 10px 0 50px;
+	list-style:none;
+	}
+
+#tabs li {
+	display:inline;
+	margin: 60%;
+	padding:0;
+	}
+
+#tabs a {
+	float:left;
+	background:#327570;
+	margin:0;
+	padding:0 0 0 5px;
+	text-decoration:none;
+	}
+
+#tabs a span {
+	float:left;
+	display:block;
+	background:#b4f7f1;
+	padding:10px 20px 8px 10px;
+	color:#464E42;
+	}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs a span {float:none;}
+
+/* End IE5-Mac hack */
+#tabs a:hover span {
+	color:white;
+	}
+
+#tabs a:hover {
+	background-position:0% -42px;
+	}
+
+#tabs a:hover span {
+	background-position:100% -42px;
+	} 
+.home-grid      
