@@ -312,9 +312,4 @@ form {
 
   /* Wellness Plan Styles Wellness Plan Page */
   
-  .wellness-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    padding: 1em 2em;
-    grid-gap: 30px;
-}  
+  
