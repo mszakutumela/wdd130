@@ -317,7 +317,6 @@ form {
     grid-template-columns: repeat(4, 1fr);
     padding: 1em 2em;
     grid-gap: 30px;
-    align-items: center;
 }  
 .wellness-card-img {
     border: 6px solid #b4f7f1;
@@ -326,6 +325,8 @@ form {
     padding: auto;
     grid-gap: 10px;
     transition: transform .5s;
+    align-items: center;
+
 }
 .wellness-card-img:hover {
     opacity: .6s;
@@ -419,29 +420,7 @@ form {
     text-align: justify;
     font-family: 'Arial Narrow', Arial, sans-serif;
 }
-.container-social summary {
-    color: white;
-    font-size: 1em;
-    text-align: left; 
-}        
-.container-intellectual {
-    background-color: #53c2b0;
-    cursor: pointer;
-    padding: 18px;
-    width: 90%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-  }
-  .container-intellectual p {
-    color: black;
-    font-size: 1em;
-    padding: 20px;
-    text-align: justify;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-}
-.container-intellectual summary {
+.container-physical summary {
     color: white;
     font-size: 1em;
     text-align: left; 

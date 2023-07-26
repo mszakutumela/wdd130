@@ -317,7 +317,6 @@ form {
     grid-template-columns: repeat(4, 1fr);
     padding: 1em 2em;
     grid-gap: 30px;
-    align-items: center;
 }  
 .wellness-card-img {
     border: 6px solid #b4f7f1;

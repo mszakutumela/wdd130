@@ -438,7 +438,7 @@ form {
     color: black;
     font-size: 1em;
     padding: 20px;
-    text-align: justify;
+    text-align: left;
     font-family: 'Arial Narrow', Arial, sans-serif;
 }
 .container-intellectual summary {

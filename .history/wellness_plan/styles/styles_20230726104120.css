@@ -317,15 +317,16 @@ form {
     grid-template-columns: repeat(4, 1fr);
     padding: 1em 2em;
     grid-gap: 30px;
-    align-items: center;
 }  
 .wellness-card-img {
     border: 6px solid #b4f7f1;
     width: 70%;
-    margin-left: 60px;
+    margin-left: 100px;
     padding: auto;
     grid-gap: 10px;
     transition: transform .5s;
+    align-items: center;
+
 }
 .wellness-card-img:hover {
     opacity: .6s;
@@ -348,7 +349,7 @@ form {
     background-color: #b4f7f1;
     line-height: 1.5em;
     padding: 5px;
-    margin: 5px 5px;
+    margin: 10px 5px;
     grid-column: 1/7;
 }
 .explain-msg p {
@@ -359,90 +360,24 @@ form {
     font-family: 'Arial Narrow', Arial, sans-serif;
 } 
 .container-spiritual {
-    background-color: #53c2b0;
+    background-color: #eee;
+    color: #444;
     cursor: pointer;
     padding: 18px;
-    width: 90%;
+    width: 100%;
     text-align: left;
     border: none;
     outline: none;
     transition: 0.4s;
   }
-  .container-spiritual p {
+  .smart-msg p {
     color: black;
     font-size: 1em;
     padding: 20px;
     text-align: justify;
     font-family: 'Arial Narrow', Arial, sans-serif;
 }
-.container-spiritual summary {
-    color: white;
-    font-size: 1em;
-    text-align: left; 
-}        
-.container-physical {
-    background-color: #53c2b0;
-    cursor: pointer;
-    padding: 18px;
-    width: 90%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-  }
-  .container-physical p {
+.smart-msg h6 {
     color: black;
-    font-size: 1em;
-    padding: 20px;
-    text-align: justify;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-}
-.container-physical summary {
-    color: white;
-    font-size: 1em;
-    text-align: left; 
-}        
-.container-social {
-    background-color: #53c2b0;
-    cursor: pointer;
-    padding: 18px;
-    width: 90%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-  }
-  .container-social p {
-    color: black;
-    font-size: 1em;
-    padding: 20px;
-    text-align: justify;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-}
-.container-social summary {
-    color: white;
-    font-size: 1em;
-    text-align: left; 
-}        
-.container-intellectual {
-    background-color: #53c2b0;
-    cursor: pointer;
-    padding: 18px;
-    width: 90%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-  }
-  .container-intellectual p {
-    color: black;
-    font-size: 1em;
-    padding: 20px;
-    text-align: justify;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-}
-.container-intellectual summary {
-    color: white;
-    font-size: 1em;
-    text-align: left; 
-}        
+    font-size: 0.8em;
+    text-align: center;     

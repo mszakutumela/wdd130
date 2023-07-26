@@ -322,7 +322,6 @@ form {
 .wellness-card-img {
     border: 6px solid #b4f7f1;
     width: 70%;
-    margin-left: 60px;
     padding: auto;
     grid-gap: 10px;
     transition: transform .5s;
