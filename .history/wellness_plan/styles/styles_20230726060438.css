@@ -355,26 +355,4 @@ form {
     padding: 20px;
     text-align: justify;
     font-family: 'Arial Narrow', Arial, sans-serif;
-} 
-.container-spiritual {
-    background-color: #eee;
-    color: #444;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-  }
-  .smart-msg p {
-    color: black;
-    font-size: 1em;
-    padding: 20px;
-    text-align: justify;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-}
-.smart-msg h6 {
-    color: black;
-    font-size: 0.8em;
-    text-align: center;     
+}    
